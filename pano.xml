@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18105" appversion="6.1.14" start="node1">
+  <panorama id="node1">
+    <input height="3168" leveltilesize="510" levelbias="0.400" width="3168" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" overlap="1">
+      <level height="3168" preload="0" width="3168" predecode="0"/>
+      <level height="1584" preload="0" width="1584" predecode="0"/>
+      <level height="792" preload="0" width="792" predecode="0"/>
+      <level height="396" preload="1" width="396" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-14.11" fov="97.14" projection="4" tilt="-20.27"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata longitude="" author="" info="" description="" copyright="" comment="" tags="1Qj Picture" latitude="" nodeid="node1" datetime="2023/7/4 14:56" source="" heading="0" customnodeid="" title=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" width="180" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" background="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <polyhotspot borderalpha="1" description="" backgroundalpha="0.392157" id="Poly01" bordercolor="0xff0000" url="{node2}" backgroundcolor="0x646464" target="" title="去场景二">
+        <polystring>-352.61/31.83|-353.7/-54.07|-50.81/-36.46|-50.04/21.45</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound mode="0" loop="-1" level="1.000" keep="1" id="yellow mountain" url="media/skin_snd_yellow mountain.mp3"/>
+      <sound mode="0" loop="-1" level="1.000" keep="1" id="music1" url="media/skin_snd_music1.mp3"/>
+    </media>
+    <transition zoomfov="20" zoomafterinfov="90" type="crossdissolve" zoomout="0" zoomspeed="2" enabled="1" zoomin="0" blendcolor="0x000000" softedge="0" blendtime="1" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" hideabout="0" invertwheel="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3141" leveltilesize="510" levelbias="0.400" width="3141" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" overlap="1">
+      <level height="3141" preload="0" width="3141" predecode="0"/>
+      <level height="1570" preload="0" width="1570" predecode="0"/>
+      <level height="785" preload="0" width="785" predecode="0"/>
+      <level height="392" preload="1" width="392" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="49.34" fov="82.59" projection="4" tilt="-2.84"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata longitude="" author="" info="" description="" copyright="" comment="" tags="1Qj Picture" latitude="" nodeid="node2" datetime="2023/7/4 15:01" source="" heading="0" customnodeid="" title=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" width="180" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" background="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <polyhotspot borderalpha="1" description="" backgroundalpha="0.392157" id="Poly01" bordercolor="0xff0000" url="{node1}" backgroundcolor="0x646464" target="" title="回场景一">
+        <polystring>-86.74/29.45|-79.51/-56.09|-180.34/-47.97|-175.48/25.35</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound mode="0" loop="-1" level="1.000" keep="1" id="yellow mountain" url="media/skin_snd_yellow mountain.mp3"/>
+      <sound mode="0" loop="-1" level="1.000" keep="1" id="music1" url="media/skin_snd_music1.mp3"/>
+    </media>
+    <transition zoomfov="20" zoomafterinfov="90" type="crossdissolve" zoomout="0" zoomspeed="2" enabled="1" zoomin="0" blendcolor="0x000000" softedge="0" blendtime="1" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" hideabout="0" invertwheel="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" simulatemass="1" contextprojections="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata longitude="" author="" info="" description="" copyright="" comment="" tags="" latitude="" nodeid="master" datetime="" source="" heading="0" customnodeid="" title=""/>
+  </masternode>
+</tour>
